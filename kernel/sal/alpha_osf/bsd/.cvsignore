@@ -1,0 +1,13 @@
+kern_malloc.c
+kern_subr.c
+subr_prf.c
+subr_xxx.c
+subr_rmap.c
+subr_select.c
+tty_subr.c
+uipc_mbuf.c
+tty_conf.c
+tty.c
+tty_compat.c
+uipc_socket.c
+uipc_socket2.c

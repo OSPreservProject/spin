@@ -1,0 +1,12 @@
+copyright
+filesystems
+newvers.sh
+template.mk
+version.banner
+version.baselevel
+version.build
+version.major
+version.minor
+version.patch
+version.type
+version.variant

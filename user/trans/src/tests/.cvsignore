@@ -1,0 +1,8 @@
+.gdbinit
+LOG
+_mmapfile*
+data.spin
+foobar barfoo *washington.edu
+log
+rdstest.data
+trans_log

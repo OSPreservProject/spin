@@ -1,0 +1,6 @@
+version.c
+Makefile
+config.status
+init.c
+gdb
+libgdb-files

@@ -1,0 +1,5 @@
+Makefile
+stmp-bfd.h
+config.status
+bfd.h
+ofiles

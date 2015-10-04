@@ -1,0 +1,12 @@
+*.cs.washington.edu
+.gdbinit
+_mmapfile
+_mmapfile2
+data
+log
+make.dep
+osf spin rvm ostore
+rds_data
+trans.c
+trans_log
+work.c
